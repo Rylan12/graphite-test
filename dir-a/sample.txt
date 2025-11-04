@@ -1,3 +1,5 @@
 This is a sample text file in directory A.
 It contains some example content for testing purposes.
 The GitHub Action should trigger when files in this directory change.
+
+This change should trigger a message
