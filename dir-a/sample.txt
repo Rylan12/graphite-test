@@ -3,3 +3,4 @@ It contains some example content for testing purposes.
 The GitHub Action should trigger when files in this directory change.
 
 This is a new line created in an intermediate commit.
+This is a new line created in an intermediate commit.
