@@ -1,3 +1,5 @@
 This is a sample text file in directory B.
 It contains some example content as well.
 The GitHub Action should NOT trigger when files in this directory change.
+
+This change only touches `dir-b`
